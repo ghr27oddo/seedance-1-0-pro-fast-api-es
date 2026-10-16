@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-20becb) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-1-0-pro-fast-prompts-es](https://github.com/ghr27oddo/seedance-1-0-pro-fast-prompts-es)
+- **Same model, other languages** — 9 more language builds: 中文 [seedance-1-0-pro-fast-api-cn](https://github.com/v87tcvt6l/seedance-1-0-pro-fast-api-cn) · Deutsch [seedance-1-0-pro-fast-api-de](https://github.com/u6ybw3k/seedance-1-0-pro-fast-api-de) · Français [seedance-1-0-pro-fast-api-fr](https://github.com/gc8pi4v-0h/seedance-1-0-pro-fast-api-fr) · Relay/gateway [seedance-1-0-pro-fast-api-gateway](https://github.com/omz6999i/seedance-1-0-pro-fast-api-gateway) · Bahasa [seedance-1-0-pro-fast-api-id](https://github.com/s9ss959juex770/seedance-1-0-pro-fast-api-id) · 日本語 [seedance-1-0-pro-fast-api-ja](https://github.com/kwmw8z1tvj5/seedance-1-0-pro-fast-api-ja) · 한국어 [seedance-1-0-pro-fast-api-ko](https://github.com/kh22-9a/seedance-1-0-pro-fast-api-ko) · Português [seedance-1-0-pro-fast-api-pt](https://github.com/vbe2e9-9/seedance-1-0-pro-fast-api-pt) · Русский [seedance-1-0-pro-fast-api-ru](https://github.com/leh6uvwe/seedance-1-0-pro-fast-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [seedance-1-0-pro-fast](https://github.com/topics/seedance-1-0-pro-fast) · [seedance-1-0-pro-fast-api](https://github.com/topics/seedance-1-0-pro-fast-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
